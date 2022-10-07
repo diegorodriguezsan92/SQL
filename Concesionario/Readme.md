@@ -1,1 +1,1 @@
-Esto es una prueba
+![StructureSchema](img/ConcesionarioScheme.png)
